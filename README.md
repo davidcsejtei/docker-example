@@ -13,3 +13,8 @@ docker compose up -d
 ```
 
 Ez elindít 2 container-t, amik "látják egymást".
+
+Sikeres indítást követően a UI elérhető:
+```
+http://localhost:80
+```
